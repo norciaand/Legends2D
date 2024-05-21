@@ -1,1 +1,1 @@
-"# Legends2D" 
+# Legends2D
